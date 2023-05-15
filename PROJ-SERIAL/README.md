@@ -8,6 +8,7 @@ gcc -g -o tartserial tartserial.c
 time ./tartserial
 
 ![image](https://github.com/Amiltonlopescosta/ComputacaoParalela5G/assets/79999632/6b8ca4cd-fec4-4f33-ab22-c0c68295ce50)
+
 Tempo serial 20:45
 
 v2 ln=100000
