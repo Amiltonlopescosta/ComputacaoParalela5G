@@ -11,5 +11,4 @@ gcc taylorthread.c -lpthread -o taylorthread
 
 v2
 
-![image](https://github.com/Amiltonlopescosta/Computa-oParalela/assets/79999632/e6b7c07a-3f9f-457d-9b67-df6a5c7f628a)
-
+![image](https://github.com/Amiltonlopescosta/ComputacaoParalela5G/assets/79999632/bf94e918-fc5c-4229-8b09-c8dd3ef65442)
