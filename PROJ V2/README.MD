@@ -6,7 +6,7 @@ Na primeira versão o programa estava retornando erro de segmentação, para cor
 
 gcc taylorthread.c -lpthread -o taylorthread
 
-![image](https://github.com/Amiltonlopescosta/Computa-oParalela/assets/79999632/a2fe9683-7427-42e7-bf6f-11fe3eb6f412)
+![image](https://github.com/Amiltonlopescosta/ComputacaoParalela5G/assets/79999632/28609853-db46-4663-82df-00ec58067f6c)
 
 
 v2
