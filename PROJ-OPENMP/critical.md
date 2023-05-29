@@ -1,4 +1,5 @@
 Projeto - Computação Paralela
+
 OpenMP é utilizado com o intuito de programar com memória compartilhada, isto é, quando diferentes threads possuem acesso a uma mesma área de memória. Em outras palavras, todas as threads conseguem acessar a memória principal e, por exemplo, uma variável nela alocada, pois ela é compartilhada e global entre as threads.
 
 Sendo assim, nessa API, todos os núcleos possuem acesso à memória RAM. Para permitir esse compartilhamento de memória usando a biblioteca:
