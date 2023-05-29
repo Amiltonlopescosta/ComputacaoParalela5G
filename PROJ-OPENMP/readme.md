@@ -2,8 +2,7 @@
 
 Tempo de execução do projeto versão openmp para T = 1000000
 
-![image](https://user-images.githubusercontent.com/48036612/201177447-a124abed-17e6-4eaa-a857-c81524526de4.png)
-
+![image](https://github.com/Amiltonlopescosta/ComputacaoParalela5G/assets/79999632/67127446-cbb4-4791-a04f-c4db5a506c33)
 
 
 ## v2
